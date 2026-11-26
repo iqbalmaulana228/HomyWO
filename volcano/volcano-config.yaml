@@ -1,0 +1,4 @@
+project:
+  name: homywo
+database:
+  name: app
